@@ -7,7 +7,8 @@ A curated gallery of **custom color themes for [Claude Code](https://claude.com/
 /plugin install theme-gallery@ccthemes
 ```
 
-Then open `/theme` and pick one. It recolors the whole interface — diffs, the accent, status, prompt — and hot-reloads live.
+Then open `/theme` and pick one. It recolors Claude Code's accent, diffs, status, and
+borders — and hot-reloads live.
 
 > Requires Claude Code **v2.1.118+** (custom theme support).
 
@@ -39,6 +40,26 @@ read-only; press `Ctrl+E` on one in `/theme` to fork it into your own editable c
 The color systems are derived from [**PoshPalette**](https://github.com/livlign/posh-palette),
 a terminal theming tool with 48 hand-built palettes — so a theme here matches its
 PoshPalette namesake, and your terminal and your Claude Code session can share one look.
+
+## Known limitation: background & main text
+
+A Claude Code theme colors the **semantic UI** — the accent, diffs, status, borders, and
+mode indicators. It does **not** control two of the largest surfaces:
+
+- **The background** — that's your terminal emulator's background, not Claude Code's.
+- **The main prose** of Claude's responses and your prompt input — currently rendered in
+  your terminal's foreground (or a hardcoded color), with no theme token for it.
+
+So a theme lands best when your **terminal** already matches it — set your terminal to the
+[PoshPalette](https://github.com/livlign/posh-palette) namesake (which owns background +
+foreground) and the matching theme here harmonizes Claude Code's accents on top. That
+pairing is the intended, coherent look; a *light* theme on a *dark* terminal (or vice
+versa) will look off because the two halves disagree on the canvas.
+
+This split isn't unique to Claude Code — terminal apps generally leave the canvas to the
+terminal. Full control over conversation text/background is an [open feature request](https://github.com/anthropics/claude-code/issues/63302)
+upstream; **we're tracking it and will expand these themes if/when Claude Code exposes
+those tokens.**
 
 ## Contributing
 
