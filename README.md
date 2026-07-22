@@ -11,6 +11,10 @@ Then open `/theme` and pick one. It recolors the whole interface — diffs, the 
 
 > Requires Claude Code **v2.1.118+** (custom theme support).
 
+## The gallery
+
+![The 48 themes in ccthemes, each shown as a palette card with its accent, status colors, and diff bars](.github/gallery.png)
+
 ## What you get
 
 | | |
