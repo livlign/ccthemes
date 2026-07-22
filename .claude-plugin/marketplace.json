@@ -6,7 +6,7 @@
       "name": "theme-gallery",
       "source": "./plugins/theme-gallery",
       "description": "A curated gallery of custom Claude Code color themes. Ships 48 hand-tuned dark and light themes into your /theme picker, plus skills to build your own and contribute it back.",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "keywords": ["theme", "themes", "color-scheme", "customization", "colors", "dark-theme", "light-theme", "dracula", "nord", "gruvbox", "tui"]
     }
   ]

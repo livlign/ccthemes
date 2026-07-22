@@ -1,12 +1,9 @@
 {
   "name": "theme-gallery",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A curated gallery of custom Claude Code color themes — 48 hand-tuned dark and light themes shipped into your /theme picker, plus skills to build a custom theme and contribute it back to the catalog.",
   "author": { "name": "livlign" },
   "homepage": "https://github.com/livlign/ccthemes",
   "repository": "https://github.com/livlign/ccthemes",
-  "keywords": ["theme", "themes", "color-scheme", "customization", "colors", "dark-theme", "light-theme", "tui"],
-  "experimental": {
-    "themes": "./themes/"
-  }
+  "keywords": ["theme", "themes", "color-scheme", "customization", "colors", "dark-theme", "light-theme", "tui"]
 }
