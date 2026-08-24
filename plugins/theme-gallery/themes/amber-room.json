@@ -1,0 +1,28 @@
+{
+  "name": "Amber Room",
+  "base": "dark",
+  "overrides": {
+    "claude": "#E0A83C",
+    "claudeShimmer": "#EBC782",
+    "text": "#EDEBE8",
+    "inactive": "#AFA79D",
+    "subtle": "#342F27",
+    "suggestion": "#E0A83C",
+    "permission": "#8A6E3C",
+    "success": "#7FCB8F",
+    "error": "#FF7A72",
+    "warning": "#EBCB70",
+    "diffAdded": "#24372B",
+    "diffRemoved": "#3B2524",
+    "diffAddedWord": "#A7E3B3",
+    "diffRemovedWord": "#FFACA5",
+    "diffAddedDimmed": "#1A2A20",
+    "diffRemovedDimmed": "#2D1D1C",
+    "promptBorder": "#E0A83C",
+    "promptBorderShimmer": "#EBC782",
+    "planMode": "#8A6E3C",
+    "userMessageBackground": "#2C2821",
+    "userMessageBackgroundHover": "#38332A",
+    "rate_limit_fill": "#E0A83C"
+  }
+}

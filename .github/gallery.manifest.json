@@ -42,6 +42,27 @@
     }
   },
   {
+    "name": "Amber Room",
+    "base": "dark",
+    "tokens": {
+      "claude": "#E0A83C",
+      "text": "#EDEBE8",
+      "inactive": "#AFA79D",
+      "promptBorder": "#E0A83C",
+      "userMessageBackground": "#2C2821",
+      "success": "#7FCB8F",
+      "error": "#FF7A72",
+      "warning": "#EBCB70",
+      "planMode": "#8A6E3C",
+      "bashBorder": null,
+      "suggestion": "#E0A83C",
+      "diffAdded": "#24372B",
+      "diffRemoved": "#3B2524",
+      "diffAddedWord": "#A7E3B3",
+      "diffRemovedWord": "#FFACA5"
+    }
+  },
+  {
     "name": "Ayu Dark",
     "base": "dark",
     "tokens": {
