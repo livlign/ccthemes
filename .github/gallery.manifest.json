@@ -798,6 +798,27 @@
     }
   },
   {
+    "name": "Zima",
+    "base": "dark",
+    "tokens": {
+      "claude": "#F2B35E",
+      "text": "#E6EEF5",
+      "inactive": "#7D8EA3",
+      "promptBorder": "#3D5470",
+      "userMessageBackground": "#111B2B",
+      "success": "#6FAE84",
+      "error": "#E2735F",
+      "warning": "#ECC979",
+      "planMode": "#9CC4E4",
+      "bashBorder": "#ECC979",
+      "suggestion": "#9CC4E4",
+      "diffAdded": "#1C3326",
+      "diffRemoved": "#36252D",
+      "diffAddedWord": "#2A4A36",
+      "diffRemovedWord": "#553038"
+    }
+  },
+  {
     "name": "Aubade",
     "base": "light",
     "tokens": {
