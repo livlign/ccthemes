@@ -1,0 +1,24 @@
+{
+  "name": "Cool Neon",
+  "base": "dark",
+  "overrides": {
+    "claude": "#22d3ee",
+    "claudeShimmer": "#a5f3fc",
+    "text": "#e6edf7",
+    "inactive": "#7c8aa5",
+    "subtle": "#3a4660",
+    "success": "#34f5a5",
+    "error": "#ff5c8a",
+    "warning": "#ffd166",
+    "diffAdded": "#0f3a33",
+    "diffRemoved": "#40182c",
+    "diffAddedWord": "#17604f",
+    "diffRemovedWord": "#6e2648",
+    "diffAddedDimmed": "#12261f",
+    "diffRemovedDimmed": "#2a1220",
+    "planMode": "#7dd3fc",
+    "autoAccept": "#c084fc",
+    "bashBorder": "#e879f9",
+    "promptBorder": "#22d3ee"
+  }
+}
