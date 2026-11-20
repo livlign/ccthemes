@@ -1,0 +1,25 @@
+{
+  "name": "Claude Dragonball",
+  "base": "dark",
+  "overrides": {
+    "claude": "#D97757",
+    "claudeShimmer": "#F5A623",
+    "text": "#E8E6E3",
+    "subtle": "#6B6660",
+    "inactive": "#8A847D",
+    "suggestion": "#F5A623",
+    "permission": "#FFD84D",
+    "permissionShimmer": "#FFE88A",
+    "promptBorder": "#5A4A42",
+    "promptBorderShimmer": "#D97757",
+    "planMode": "#2FA8F0",
+    "autoAccept": "#F2C230",
+    "fastMode": "#E0384F",
+    "effortUltra": "#D8DEE9",
+    "warning": "#F2C230",
+    "userMessageBackground": "#1A1716",
+    "rate_limit_fill": "#F5A623",
+    "rate_limit_empty": "#2A2624",
+    "briefLabelClaude": "#D97757"
+  }
+}
