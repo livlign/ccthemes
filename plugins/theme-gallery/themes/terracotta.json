@@ -1,0 +1,29 @@
+{
+  "name": "Terracotta",
+  "base": "dark",
+  "overrides": {
+    "claude": "#D9693F",
+    "claudeShimmer": "#EB8B64",
+    "text": "#EFE4D6",
+    "inactive": "#8F7B6B",
+    "subtle": "#4B3D34",
+    "suggestion": "#E58A62",
+    "permission": "#E58A62",
+    "success": "#8DB87A",
+    "error": "#E5533C",
+    "warning": "#E3A04A",
+    "diffAdded": "#2C3425",
+    "diffRemoved": "#432320",
+    "diffAddedWord": "#3B4E35",
+    "diffRemovedWord": "#662E22",
+    "diffAddedDimmed": "#24261D",
+    "diffRemovedDimmed": "#301D18",
+    "promptBorder": "#8F7B6B",
+    "planMode": "#6FA8A0",
+    "autoAccept": "#8DB87A",
+    "bashBorder": "#C9739A",
+    "fastMode": "#E3A04A",
+    "userMessageBackground": "#2A211C",
+    "bashMessageBackgroundColor": "#2B1D24"
+  }
+}
