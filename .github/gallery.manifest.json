@@ -693,6 +693,27 @@
     }
   },
   {
+    "name": "Royal Purple",
+    "base": "dark",
+    "tokens": {
+      "claude": "#a77bff",
+      "text": "#ece6ff",
+      "inactive": "#8a83a8",
+      "promptBorder": "#6a5acd",
+      "userMessageBackground": null,
+      "success": "#5fe3a1",
+      "error": "#ff6b8b",
+      "warning": "#ffc66d",
+      "planMode": "#7fb4ff",
+      "bashBorder": "#ff79c6",
+      "suggestion": null,
+      "diffAdded": "#284a3d",
+      "diffRemoved": "#4b293d",
+      "diffAddedWord": "#306b49",
+      "diffRemovedWord": "#6d3148"
+    }
+  },
+  {
     "name": "Solarized Dark",
     "base": "dark",
     "tokens": {
