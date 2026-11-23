@@ -1,0 +1,24 @@
+{
+  "name": "Royal Purple",
+  "base": "dark",
+  "overrides": {
+    "claude": "#a77bff",
+    "claudeShimmer": "#cdb4ff",
+    "text": "#ece6ff",
+    "inactive": "#8a83a8",
+    "subtle": "#4a4466",
+    "success": "#5fe3a1",
+    "error": "#ff6b8b",
+    "warning": "#ffc66d",
+    "diffAdded": "#284a3d",
+    "diffRemoved": "#4b293d",
+    "diffAddedWord": "#306b49",
+    "diffRemovedWord": "#6d3148",
+    "diffAddedDimmed": "#233436",
+    "diffRemovedDimmed": "#352435",
+    "planMode": "#7fb4ff",
+    "autoAccept": "#e07bff",
+    "bashBorder": "#ff79c6",
+    "promptBorder": "#6a5acd"
+  }
+}
